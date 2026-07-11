@@ -1,0 +1,200 @@
+2026-07-01 12:22:01 | INFO     | dataset_validation | Validating dataset at D:\final year project\inmoov_tool_detector\dataset
+2026-07-01 12:22:01 | ERROR    | dataset_validation | No images found under D:\final year project\inmoov_tool_detector\dataset. Expected images/ or images/train, images/val, etc.
+2026-07-01 12:22:01 | INFO     | dataset_validation | 
+======================================================================
+DATASET VALIDATION REPORT
+======================================================================
+Total images found       : 0
+Total label files found  : 0
+Images missing labels    : 0
+Labels missing images    : 0
+Corrupted images         : 0
+Corrupted label files    : 0
+Invalid class IDs        : 0
+Out-of-bounds boxes      : 0
+Empty label files        : 0
+Duplicate image groups   : 0
+----------------------------------------------------------------------
+RESULT: PASS - dataset looks valid
+======================================================================
+2026-07-01 12:22:01 | INFO     | dataset_validation | Report written to D:\final year project\inmoov_tool_detector\reports\dataset_validation_report.txt
+2026-07-01 12:23:31 | INFO     | dataset_validation | Validating dataset at D:\final year project\inmoov_tool_detector\dataset
+2026-07-01 12:23:31 | ERROR    | dataset_validation | No images found under D:\final year project\inmoov_tool_detector\dataset. Expected images/ or images/train, images/val, etc.
+2026-07-01 12:23:31 | INFO     | dataset_validation | 
+======================================================================
+DATASET VALIDATION REPORT
+======================================================================
+Total images found       : 0
+Total label files found  : 0
+Images missing labels    : 0
+Labels missing images    : 0
+Corrupted images         : 0
+Corrupted label files    : 0
+Invalid class IDs        : 0
+Out-of-bounds boxes      : 0
+Empty label files        : 0
+Duplicate image groups   : 0
+----------------------------------------------------------------------
+RESULT: PASS - dataset looks valid
+======================================================================
+2026-07-01 12:23:31 | INFO     | dataset_validation | Report written to D:\final year project\inmoov_tool_detector\reports\dataset_validation_report.txt
+2026-07-01 12:57:25 | INFO     | dataset_validation | Validating dataset at D:\final year project\inmoov_tool_detector\dataset
+2026-07-01 12:57:25 | ERROR    | dataset_validation | No images found under D:\final year project\inmoov_tool_detector\dataset. Expected images/ or images/train, images/val, etc.
+2026-07-01 12:57:25 | INFO     | dataset_validation | 
+======================================================================
+DATASET VALIDATION REPORT
+======================================================================
+Total images found       : 0
+Total label files found  : 0
+Images missing labels    : 0
+Labels missing images    : 0
+Corrupted images         : 0
+Corrupted label files    : 0
+Invalid class IDs        : 0
+Out-of-bounds boxes      : 0
+Empty label files        : 0
+Duplicate image groups   : 0
+----------------------------------------------------------------------
+RESULT: PASS - dataset looks valid
+======================================================================
+2026-07-01 12:57:25 | INFO     | dataset_validation | Report written to D:\final year project\inmoov_tool_detector\reports\dataset_validation_report.txt
+2026-07-01 13:02:19 | INFO     | dataset_validation | Validating dataset at D:\final year project\inmoov_tool_detector\dataset
+2026-07-01 13:02:19 | ERROR    | dataset_validation | No images found under D:\final year project\inmoov_tool_detector\dataset. Expected images/ or images/train, images/val, etc.
+2026-07-01 13:02:19 | INFO     | dataset_validation | 
+======================================================================
+DATASET VALIDATION REPORT
+======================================================================
+Total images found       : 0
+Total label files found  : 0
+Images missing labels    : 0
+Labels missing images    : 0
+Corrupted images         : 0
+Corrupted label files    : 0
+Invalid class IDs        : 0
+Out-of-bounds boxes      : 0
+Empty label files        : 0
+Duplicate image groups   : 0
+----------------------------------------------------------------------
+RESULT: PASS - dataset looks valid
+======================================================================
+2026-07-01 13:02:19 | INFO     | dataset_validation | Report written to D:\final year project\inmoov_tool_detector\reports\dataset_validation_report.txt
+2026-07-01 13:03:03 | INFO     | dataset_validation | Validating dataset at D:\final year project\inmoov_tool_detector\dataset
+2026-07-01 13:03:03 | ERROR    | dataset_validation | No images found under D:\final year project\inmoov_tool_detector\dataset. Expected images/ or images/train, images/val, etc.
+2026-07-01 13:03:03 | INFO     | dataset_validation | 
+======================================================================
+DATASET VALIDATION REPORT
+======================================================================
+Total images found       : 0
+Total label files found  : 0
+Images missing labels    : 0
+Labels missing images    : 0
+Corrupted images         : 0
+Corrupted label files    : 0
+Invalid class IDs        : 0
+Out-of-bounds boxes      : 0
+Empty label files        : 0
+Duplicate image groups   : 0
+----------------------------------------------------------------------
+RESULT: PASS - dataset looks valid
+======================================================================
+2026-07-01 13:03:03 | INFO     | dataset_validation | Report written to D:\final year project\inmoov_tool_detector\reports\dataset_validation_report.txt
+2026-07-01 13:10:08 | INFO     | dataset_validation | Validating dataset at D:\final year project\inmoov_tool_detector\dataset
+2026-07-01 13:10:08 | ERROR    | dataset_validation | No images found under D:\final year project\inmoov_tool_detector\dataset. Expected images/ or images/train, images/val, etc.
+2026-07-01 13:10:08 | INFO     | dataset_validation | 
+======================================================================
+DATASET VALIDATION REPORT
+======================================================================
+Total images found       : 0
+Total label files found  : 0
+Images missing labels    : 0
+Labels missing images    : 0
+Corrupted images         : 0
+Corrupted label files    : 0
+Invalid class IDs        : 0
+Out-of-bounds boxes      : 0
+Empty label files        : 0
+Duplicate image groups   : 0
+----------------------------------------------------------------------
+RESULT: PASS - dataset looks valid
+======================================================================
+2026-07-01 13:10:08 | INFO     | dataset_validation | Report written to D:\final year project\inmoov_tool_detector\reports\dataset_validation_report.txt
+2026-07-01 17:00:49 | INFO     | dataset_validation | Validating dataset at D:\final year project\inmoov_tool_detector\dataset
+2026-07-01 17:00:49 | ERROR    | dataset_validation | No images found under D:\final year project\inmoov_tool_detector\dataset. Expected images/ or images/train, images/val, etc.
+2026-07-01 17:00:49 | INFO     | dataset_validation | 
+======================================================================
+DATASET VALIDATION REPORT
+======================================================================
+Total images found       : 0
+Total label files found  : 0
+Images missing labels    : 0
+Labels missing images    : 0
+Corrupted images         : 0
+Corrupted label files    : 0
+Invalid class IDs        : 0
+Out-of-bounds boxes      : 0
+Empty label files        : 0
+Duplicate image groups   : 0
+----------------------------------------------------------------------
+RESULT: PASS - dataset looks valid
+======================================================================
+2026-07-01 17:00:49 | INFO     | dataset_validation | Report written to D:\final year project\inmoov_tool_detector\reports\dataset_validation_report.txt
+2026-07-01 17:01:17 | INFO     | dataset_validation | Validating dataset at D:\final year project\inmoov_tool_detector\dataset
+2026-07-01 17:01:17 | ERROR    | dataset_validation | No images found under D:\final year project\inmoov_tool_detector\dataset. Expected images/ or images/train, images/val, etc.
+2026-07-01 17:01:17 | INFO     | dataset_validation | 
+======================================================================
+DATASET VALIDATION REPORT
+======================================================================
+Total images found       : 0
+Total label files found  : 0
+Images missing labels    : 0
+Labels missing images    : 0
+Corrupted images         : 0
+Corrupted label files    : 0
+Invalid class IDs        : 0
+Out-of-bounds boxes      : 0
+Empty label files        : 0
+Duplicate image groups   : 0
+----------------------------------------------------------------------
+RESULT: PASS - dataset looks valid
+======================================================================
+2026-07-01 17:01:17 | INFO     | dataset_validation | Report written to D:\final year project\inmoov_tool_detector\reports\dataset_validation_report.txt
+2026-07-01 17:03:47 | INFO     | dataset_validation | Validating dataset at D:\final year project\inmoov_tool_detector\dataset
+2026-07-01 17:03:47 | ERROR    | dataset_validation | No images found under D:\final year project\inmoov_tool_detector\dataset. Expected images/ or images/train, images/val, etc.
+2026-07-01 17:03:47 | INFO     | dataset_validation | 
+======================================================================
+DATASET VALIDATION REPORT
+======================================================================
+Total images found       : 0
+Total label files found  : 0
+Images missing labels    : 0
+Labels missing images    : 0
+Corrupted images         : 0
+Corrupted label files    : 0
+Invalid class IDs        : 0
+Out-of-bounds boxes      : 0
+Empty label files        : 0
+Duplicate image groups   : 0
+----------------------------------------------------------------------
+RESULT: PASS - dataset looks valid
+======================================================================
+2026-07-01 17:03:47 | INFO     | dataset_validation | Report written to D:\final year project\inmoov_tool_detector\reports\dataset_validation_report.txt
+2026-07-01 17:09:13 | INFO     | dataset_validation | Validating dataset at D:\final year project\inmoov_tool_detector\dataset
+2026-07-01 17:09:13 | ERROR    | dataset_validation | No images found under D:\final year project\inmoov_tool_detector\dataset. Expected images/ or images/train, images/val, etc.
+2026-07-01 17:09:13 | INFO     | dataset_validation | 
+======================================================================
+DATASET VALIDATION REPORT
+======================================================================
+Total images found       : 0
+Total label files found  : 0
+Images missing labels    : 0
+Labels missing images    : 0
+Corrupted images         : 0
+Corrupted label files    : 0
+Invalid class IDs        : 0
+Out-of-bounds boxes      : 0
+Empty label files        : 0
+Duplicate image groups   : 0
+----------------------------------------------------------------------
+RESULT: PASS - dataset looks valid
+======================================================================
+2026-07-01 17:09:13 | INFO     | dataset_validation | Report written to D:\final year project\inmoov_tool_detector\reports\dataset_validation_report.txt

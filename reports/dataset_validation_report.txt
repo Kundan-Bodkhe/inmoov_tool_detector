@@ -1,0 +1,16 @@
+======================================================================
+DATASET VALIDATION REPORT
+======================================================================
+Total images found       : 0
+Total label files found  : 0
+Images missing labels    : 0
+Labels missing images    : 0
+Corrupted images         : 0
+Corrupted label files    : 0
+Invalid class IDs        : 0
+Out-of-bounds boxes      : 0
+Empty label files        : 0
+Duplicate image groups   : 0
+----------------------------------------------------------------------
+RESULT: PASS - dataset looks valid
+======================================================================

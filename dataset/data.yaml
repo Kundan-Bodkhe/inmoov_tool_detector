@@ -1,0 +1,11 @@
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: drill
+  1: hammer
+  2: pliers
+  3: screwdriver
+  4: wrench

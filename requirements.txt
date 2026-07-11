@@ -1,0 +1,21 @@
+# Core
+ultralytics>=8.3.0        # YOLO11 / YOLOv8 training, evaluation, inference
+torch>=2.2.0
+torchvision>=0.17.0
+
+# Computer vision / imaging
+opencv-python>=4.9.0
+Pillow>=10.2.0
+numpy>=1.26.0
+
+# Dataset / config
+PyYAML>=6.0.1
+
+# Utilities
+tqdm>=4.66.0
+matplotlib>=3.8.0        # used by ultralytics for training plots
+
+# Optional export targets (uncomment as needed)
+# onnx>=1.16.0
+# onnxsim>=0.4.36
+# onnxruntime-gpu>=1.17.0   # or onnxruntime for CPU-only
