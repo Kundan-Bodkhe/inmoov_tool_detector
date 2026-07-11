@@ -218,6 +218,11 @@ Three ways, in order of convenience:
   `config/config.py`.
 
 ---
+## Detection Results
+
+### Real-Time Tool Detection
+
+![Detection Output](sample_images/tool_detection.jpg)
 
 ## 9. Adding New Tool Classes Later
 
