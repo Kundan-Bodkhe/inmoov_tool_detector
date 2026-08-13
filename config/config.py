@@ -46,9 +46,9 @@ class Config:
     # ------------------------------------------------------------------
     # Training hyperparameters
     # ------------------------------------------------------------------
-    epochs: int = 150
-    patience: int = 25          # early stopping patience (epochs w/o improvement)
-    batch_size: int = 16
+    epochs: int = 200
+    patience: int = 40         # early stopping patience (epochs w/o improvement)
+    batch_size: int = 4
     image_size: int = 640
     optimizer: str = "AdamW"    # SGD, Adam, AdamW, NAdam, RAdam, RMSProp, auto
     learning_rate: float = 0.001
